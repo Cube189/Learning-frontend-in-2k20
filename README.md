@@ -16,13 +16,13 @@
     - [ES6 features](https://github.com/lukehoban/es6features) 
     - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) 
 -   [React](#react)
-    -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/)
+    -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/) :poland:
     -   [awesome-react](https://github.com/enaqx/awesome-react) :heart:
     -   [awesome-react-components](https://github.com/brillout/awesome-react-components)
     -   [React Documentation](https://reactjs.org/docs) 
     -   [notes for professionals: React](https://books.goalkicker.com/ReactJSBook/) 
 -   [Vue](#vue)
-    - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
+    - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/) :poland:
     - [awesome-vue](https://github.com/vuejs/awesome-vue) :heart:
     - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
 -   [Angular](#angular)
@@ -37,18 +37,20 @@
 # Extensions for vs code
 
 -   General
-    - [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) 
-    - [format toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) 
-    - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) 
-    - [vscode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) 
+    - [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) :heart:
+    - [format toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) :heart: 
+    - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) :heart:
+    - [vscode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) :heart: 
     - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+    - [paste-json-as-code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) :heart:
 -   React
     - [react-js-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 -   Angular
     - [Angular language service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) 
     - [Angular snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
     - [Angular schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) 
-    - [Angular quickswitch](https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch) 
+    - [Angular quickswitch](https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch) :heart: - imo must have when developing an angular app
 -   Vue
     - [syntax highlighting](https://marketplace.visualstudio.com/items?itemName=jcbuisson.vue)
     - [Vue 2 snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)
